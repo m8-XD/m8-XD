@@ -1,6 +1,7 @@
+# This man wants to become backend developer at FAANG
 # Hello there
 
-Hello I am just guy who wants to become a software engineer and I don't just wait for that moment I work.
+Hello I am just guy who wants to become a backend developer at big tech company and I don't just wait for that moment I work.
 
 <b>If You are somehow reading this and need motivation or You want to see my progress</b> for any reason, You are welcome to [this](https://github.com/Ord1naryMan/Road-To-FAANG) repo. Here I commit all my solved problems from different websites like Leetcode and I do it daily(at least I try)
 
