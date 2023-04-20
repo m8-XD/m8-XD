@@ -1,9 +1,7 @@
-# This man wants to become backend developer at [FAANG](https://github.com/Ord1naryMan/Road-To-FAANG)
+# This man wants to become backend developer at [FAANG](https://en.wikipedia.org/wiki/Big_Tech)
 # Hello there
 
 Hello I am just guy who wants to become a backend developer at big tech company and I don't just wait for that moment I work.
-
-<b>If You are somehow reading this and need motivation or You want to see my progress</b> for any reason, You are welcome to [this](https://github.com/Ord1naryMan/Road-To-FAANG) repo. Here I commit all my solved problems from different websites like Leetcode and I do it daily(at least I try)
 
 # My links
 If You want to contact with Me or see more information about Me this section is just for You:
