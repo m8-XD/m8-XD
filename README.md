@@ -1,4 +1,3 @@
-# This man wants to become backend developer at [FAANG](https://en.wikipedia.org/wiki/Big_Tech)
 # Hello there
 
 Hello I am just guy who wants to become a backend developer at big tech company and I don't just wait for that moment I work.
