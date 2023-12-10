@@ -16,4 +16,5 @@ If You want to contact with Me or see more information about Me this section is 
 
 Projects I want to make in future:
 - cryptocurrency (Blockchain and security stuf)
-- data compression(and decompression)
+- data compression(and decompression with password based encryption)
+- steganography (hiding files in music)
