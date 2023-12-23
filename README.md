@@ -8,7 +8,7 @@ If You want to contact with Me or see more information about Me this section is 
 
 * My CV (google docs): https://docs.google.com/document/d/1aAGMqglEGZCVxPkagxD3X-CBwryW7sAkuv0WoM2V6gA/edit?usp=sharing
 
-* Telegram(for communication): https://t.me/oxynite
+* Telegram(for communication): https://t.me/m8_XD
 
 * Leetcode: https://leetcode.com/0rd1naryman/
 
