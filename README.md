@@ -4,8 +4,7 @@ If You want to contact with Me or see more information about Me this section is 
 
 * Gmail: ord1naryman.dmitry@gmail.com
 
-* GitHub: https://github.com/Ord1naryMan
-
+* GitHub: https://github.com/m8-xd
 * My CV (google docs): https://docs.google.com/document/d/1aAGMqglEGZCVxPkagxD3X-CBwryW7sAkuv0WoM2V6gA/edit?usp=sharing
 
 * Telegram(for communication): https://t.me/m8_XD
