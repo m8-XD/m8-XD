@@ -14,7 +14,7 @@ If You want to contact with Me or see more information about Me this section is 
 * LinkedIn: https://www.linkedin.com/in/dmitry-dubina-96476a26b
 
 Projects I want to make in future:
-- cryptocurrency (Blockchain and security stuff)
+- [+] cryptocurrency (Blockchain and security stuff)
+- news feed(or Instagram like feed)
 - data compression(and decompression with password based encryption)
 - steganography project (hiding files in music)
-- news feed(or Instagram like feed)
