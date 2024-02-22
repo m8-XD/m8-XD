@@ -1,14 +1,19 @@
+<!TODO
+add disclaimer
+add ring0 map lmao
+/>
+
 💬 **Me**: cybersecurity student and an offensive security enthusiast focusing on offensive development and reverse engineering.
 
 🌱 **Projects**:
 
 - (+) `⛓️` **`cryptocurrency`**<br>
-\\___[ just cryptocurrency, idk<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `golang` ]
+\\___[ just cryptocurrency, idk]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `golang`
 
 - (-) `🖼️` **`steganographer`**<br>
-\\___[ program to hide data inside images/music/video<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `c` ]
+\\___[ program to hide data inside images/music/video]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `c`
 
 # My Skills
 [![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,go,neovim,vim,linux)](https://skillicons.dev)
