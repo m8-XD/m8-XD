@@ -1,6 +1,7 @@
 <!TODO
 add ring0 map lmao
 />
+![rings1111111](https://github.com/ring0-rootkit/ring0-rootkit/assets/111735837/526dd6d2-ad11-43e0-a3db-19bb9bb5739c)
 
 💬 **Me**: cybersecurity student and an offensive security enthusiast focusing on offensive development and reverse engineering.
 
