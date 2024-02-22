@@ -1,9 +1,14 @@
 <!TODO
-add disclaimer
 add ring0 map lmao
 />
 
 💬 **Me**: cybersecurity student and an offensive security enthusiast focusing on offensive development and reverse engineering.
+
+***⚠️WARNING⚠️***<br/>
+Every mallware I wrote and put here are designed ONLY for educational purpose. I wrote it to better understand how real life computer viruses work, and you can find them usefull in you infosec journey.
+I strongly recommend you to test them only on YOUR computer or machine you HAVE PERMISSION to run malware on.
+Good luck ;)<br/>
+***⚠️WARNING⚠️***
 
 🌱 **Projects**:
 
