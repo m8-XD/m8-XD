@@ -17,12 +17,11 @@
 
 # My Links
 
-* <img src="https://skillicons.dev/icons?i=gmail" width="10" height="10"/> Gmail: `ord1naryman.dmitry@gmail.com`
-    
-* Gmail: `ord1naryman.dmitry@gmail.com`
-* GitHub: `https://github.com/ring0-rootkit`
-* My CV [google docs](https://docs.google.com/document/d/1aAGMqglEGZCVxPkagxD3X-CBwryW7sAkuv0WoM2V6gA/edit?usp=sharing)
-* [Telegram](https://t.me/ring0_rootkit)
-* [Leetcode](https://leetcode.com/0rd1naryman/)
-* [![NVIM BTW](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)[LinkedIn](https://www.linkedin.com/in/dmitry-dubina-96476a26b)  
+* <img src="https://skillicons.dev/icons?i=gmail" width="20" height="20"/> Gmail: `ord1naryman.dmitry@gmail.com`
+* <img src="https://skillicons.dev/icons?i=linkedin" width="20" height="20"/> [LinkedIn](https://www.linkedin.com/in/dmitry-dubina-96476a26b)  
+* <img src="https://github.com/ring0-rootkit/ring0-rootkit/github.png" width="20" height="20"/> GitHub: `https://github.com/ring0-rootkit`
+* 📝 My CV [Google Docs](https://docs.google.com/document/d/1aAGMqglEGZCVxPkagxD3X-CBwryW7sAkuv0WoM2V6gA/edit?usp=sharing)
+* <img src="https://github.com/ring0-rootkit/ring0-rootkit/tg.png" width="20" height="20"/> [Telegram](https://t.me/ring0_rootkit)
+* <img src="https://github.com/ring0-rootkit/ring0-rootkit/leetcode.png" width="20" height="20"/>  [Leetcode](https://leetcode.com/0rd1naryman/)
+
 
