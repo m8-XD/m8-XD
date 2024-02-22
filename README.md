@@ -2,11 +2,11 @@
 
 🌱 **Projects**:
 
-- (+) `💉` **`cryptocurrency`**<br>
+- (+) `⛓️` **`cryptocurrency`**<br>
 \\___[ just cryptocurrency, idk<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `golang` ]
 
-- (-) `🐧` **`steganographer`**<br>
+- (-) `🖼️` **`steganographer`**<br>
 \\___[ program to hide data inside images/music/video<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `c` ]
 
