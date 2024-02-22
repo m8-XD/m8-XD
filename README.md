@@ -1,4 +1,4 @@
-![rings1111111](https://github.com/ring0-rootkit/ring0-rootkit/assets/111735837/526dd6d2-ad11-43e0-a3db-19bb9bb5739c)
+![rings1111111](https://github.com/ring-0-rootkit/ring-0-rootkit/assets/111735837/526dd6d2-ad11-43e0-a3db-19bb9bb5739c)
 
 💬 **Me**: cybersecurity student and an offensive security enthusiast focusing on offensive development and reverse engineering.
 
@@ -27,9 +27,9 @@ Good luck ;)<br/>
 
 * <img src="https://skillicons.dev/icons?i=gmail" width="20" height="20"/> Gmail: `ord1naryman.dmitry@gmail.com`
 * <img src="https://skillicons.dev/icons?i=linkedin" width="20" height="20"/> [LinkedIn](https://www.linkedin.com/in/dmitry-dubina-96476a26b)  
-* <img src="https://github.com/ring0-rootkit/ring0-rootkit/blob/main/github.png" width="20" height="20"/> GitHub: `https://github.com/ring0-rootkit`
+* <img src="https://github.com/ring-0-rootkit/ring-0-rootkit/blob/main/github.png" width="20" height="20"/> GitHub: `https://github.com/ring-0-rootkit`
 * 📝 My CV [Google Docs](https://docs.google.com/document/d/1aAGMqglEGZCVxPkagxD3X-CBwryW7sAkuv0WoM2V6gA/edit?usp=sharing)
-* <img src="https://github.com/ring0-rootkit/ring0-rootkit/blob/main/tg.png" width="20" height="20"/> [Telegram](https://t.me/ring0_rootkit)
-* <img src="https://github.com/ring0-rootkit/ring0-rootkit/blob/main/leetcode.png" width="20" height="20"/>  [Leetcode](https://leetcode.com/0rd1naryman/)
+* <img src="https://github.com/ring-0-rootkit/ring-0-rootkit/blob/main/tg.png" width="20" height="20"/> [Telegram](https://t.me/ring0_rootkit)
+* <img src="https://github.com/ring-0-rootkit/ring-0-rootkit/blob/main/leetcode.png" width="20" height="20"/>  [Leetcode](https://leetcode.com/0rd1naryman/)
 
 
