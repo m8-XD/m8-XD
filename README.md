@@ -1,3 +1,14 @@
+💬 **Me**: cybersecurity student and an offensive security enthusiast focusing on offensive development and reverse engineering.
+
+🌱 **Projects**:
+
+- (+) `💉` **`cryptocurrency`**<br>
+\\___[ just cryptocurrency, idk<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `golang` ]
+
+- (-) `🐧` **`steganographer`**<br>
+\\___[ program to hide data inside images/music/video<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `c` ]
 
 # My links
 If You want to contact with Me or see more information about Me this section is just for You:
