@@ -1,6 +1,6 @@
 ![rings1111111](https://github.com/ring-0-rootkit/ring-0-rootkit/assets/111735837/526dd6d2-ad11-43e0-a3db-19bb9bb5739c)
 
-💬 **Me**: cybersecurity student and an offensive security enthusiast focusing on offensive development and reverse engineering.
+💬 **Me**: cybersecurity student and an deffensive security enthusiast focusing on offensive development and reverse engineering.
 
 ***⚠️WARNING⚠️***<br/>
 Every mallware I wrote and put here are designed ONLY for educational purpose. I wrote it to better understand how real life computer viruses work, and you can find them usefull in you infosec journey.
