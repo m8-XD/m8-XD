@@ -1,6 +1,6 @@
 
 
-💬 **Me**: bsu student and self studying backend developer focused on go lang backend programming.
+💬 **Me**: bsu student and self learning backend developer currently focused on go lang backend programming.
 
 🌱 **Projects**:
 
