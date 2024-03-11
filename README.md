@@ -25,8 +25,6 @@ nvim &nbsp;&nbsp;&nbsp;&nbsp;
 vim &nbsp;&nbsp;&nbsp;&nbsp; 
 linux
 
-# [![NVIM BTW](https://skillicons.dev/icons?i=neovim)](https://skillicons.dev) I use NEOVIM BTW
-
 # My Links
 
 * <img src="https://skillicons.dev/icons?i=gmail" width="20" height="20"/> Gmail: `m8-XS@proton.me`
