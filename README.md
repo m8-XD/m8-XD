@@ -22,17 +22,8 @@
 
 
 # My Skills
-[![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,java,go,htmx,neovim,vim,linux)](https://skillicons.dev)<br/>
-&nbsp;
-bash &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-c &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-c++ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-java &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-go &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-htmx &nbsp;&nbsp;
-nvim &nbsp;&nbsp;&nbsp;&nbsp;
-vim &nbsp;&nbsp;&nbsp;&nbsp; 
-linux
+[![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,java,go,neovim,vim,linux)](https://skillicons.dev)<br/>
+
 
 # My Links
 
