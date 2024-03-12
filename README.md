@@ -4,13 +4,18 @@
 
 🌱 **Projects**:
 
+- (-) `🖼️` **`CommTh`**<br>
+\\___[ java chatting webapp ]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `java`
+
+- (-) `🖼️` **`postgreSQL_clone`**<br>
+\\___[no-SQL database ]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `java`
+
 - (+) `⛓️` **`cryptocurrency`**<br>
 \\___[ just cryptocurrency, idk]<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `golang`
 
-- (-) `🖼️` **`steganographer`**<br>
-\\___[ program to hide data inside images/music/video]<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `go`
 
 # My Skills
 [![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,java,go,htmx,neovim,vim,linux)](https://skillicons.dev)<br/>
