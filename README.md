@@ -8,6 +8,10 @@
 \\___[ java chatting webapp ]<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `java`
 
+- (-) `🖼️` **`plugin_system`**<br>
+\\___[ implementation of extensible program with plugins ]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `java`
+
 - (-) `🖼️` **`postgreSQL_clone`**<br>
 \\___[no-SQL database ]<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `java`
