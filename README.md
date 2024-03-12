@@ -4,19 +4,19 @@
 
 🌱 **Projects**:
 
-- (-) `🖼️` **`CommTh`**<br>
+- (-) `💬` **[`CommTh`](https://github.com/m8-XD/CommTh)**<br>
 \\___[ java chatting webapp ]<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `java, spring`
+
+- (-) `🧊` **[`plugin_system`](https://github.com/m8-XD/plugin-system)**<br>
+\\___[ program that can be extended with plugins ]<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `java`
 
-- (-) `🖼️` **`plugin_system`**<br>
-\\___[ implementation of extensible program with plugins ]<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `java`
-
-- (-) `🖼️` **`postgreSQL_clone`**<br>
+- (-) `📈` **[`postgreSQL_clone`](https://github.com/m8-XD/postgreSQL_clone)**<br>
 \\___[no-SQL database ]<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `java`
 
-- (+) `⛓️` **`cryptocurrency`**<br>
+- (+) `⛓️` **[`cryptocurrency`](https://github.com/m8-XD/crypto-currency-on-go)**<br>
 \\___[ just cryptocurrency, idk]<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `golang`
 
