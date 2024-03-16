@@ -1,6 +1,6 @@
 
 
-💬 **Me**: bsu student and self learning backend developer currently focused on java (spring) backend programming.
+💬 **Me**: bsu student and self learning backend developer currently focused on java (spring) and go backend programming.
 
 🌱 **Projects**:
 
