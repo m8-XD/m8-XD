@@ -22,7 +22,7 @@
 
 
 # My Skills
-[![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,java,go,neovim,vim,linux)](https://skillicons.dev)<br/>
+[![My Skills](https://skillicons.dev/icons?i=go,java,bash,c,cpp,neovim,vim,linux)](https://skillicons.dev)<br/>
 
 
 # My Links
