@@ -14,9 +14,9 @@
 * 📝 My CV [Google Docs](https://docs.google.com/document/d/1aAGMqglEGZCVxPkagxD3X-CBwryW7sAkuv0WoM2V6gA/edit?usp=sharing)
 <!--* <img src="https://skillicons.dev/icons?i=linkedin" width="20" height="20"/> [LinkedIn](https://www.linkedin.com/in/dmitry-dubina-96476a26b)  -->
 * <img src="https://github.com/ring-0-rootkit/ring-0-rootkit/blob/main/tg.png" width="20" height="20"/> [Telegram](https://t.me/ring0_rootkit)
-<!--* <img src="https://github.com/ring-0-rootkit/ring-0-rootkit/blob/main/leetcode.png" width="20" height="20"/>  [Leetcode](https://leetcode.com/0rd1naryman/)-->
+<!--* <img src="https://github.com/ring-0-rootkit/ring-0-rootkit/blob/main/leetcode.png" width="20" height="20"/>  [Leetcode](https://leetcode.com/0rd1naryman/) -->
 
 
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/ring0-rootkit/ring0-rootkit/assets/111735837/51e8774f-3797-424c-ae3c-b185d6834337');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/ring0-rootkit/ring0-rootkit/assets/111735837/85d4a368-a444-421c-b9c5-d43b89955b87');]{x0000}$}
