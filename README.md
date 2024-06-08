@@ -19,4 +19,4 @@
 
 
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/ring0-rootkit/ring0-rootkit/assets/111735837/85d4a368-a444-421c-b9c5-d43b89955b87');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/ring0-rootkit/ring0-rootkit/assets/111735837/f8061ccd-d632-479c-a4ae-5039956b090e');]{x0000}$}
