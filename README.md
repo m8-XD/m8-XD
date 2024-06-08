@@ -16,7 +16,5 @@
 * <img src="https://github.com/ring-0-rootkit/ring-0-rootkit/blob/main/tg.png" width="20" height="20"/> [Telegram](https://t.me/ring0_rootkit)
 <!--* <img src="https://github.com/ring-0-rootkit/ring-0-rootkit/blob/main/leetcode.png" width="20" height="20"/>  [Leetcode](https://leetcode.com/0rd1naryman/) -->
 
-
-
 ```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/ring0-rootkit/ring0-rootkit/assets/111735837/f8061ccd-d632-479c-a4ae-5039956b090e');]{x0000}$}
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/ring0-rootkit/ring0-rootkit/blob/main/gophers.png?raw=true');]{x0000}$}
