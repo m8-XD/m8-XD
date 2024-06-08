@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%">
+  <style>
+    .background {
+      z-index: 1000;
+      position: fixed;
+      top: 0;
+      left: 0;
+      height: 100vh;
+      width: 100vw;
+      background: url('https://i.sstatic.net/9QIIpEvK.png') no-repeat center center;
+      background-size: cover;
+    }
+  </style>
+  <rect width="100%" height="100%" class="background"/>
+</svg>
