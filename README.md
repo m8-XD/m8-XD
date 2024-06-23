@@ -1,6 +1,4 @@
-
-
-<!--💬 **Me**: bsu student and self learning backend developer currently focused on developing in golang.-->
+💬 **Me**: crypto dev, infosec student, offensive security enthusiast. Well, you C, Rust is the way to Go
 
 
 <!--# My Skills-->
