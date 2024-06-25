@@ -2,4 +2,4 @@
 
 
 # My Skills
-[![My Skills](https://skillicons.dev/icons?i=go,java,bash,rust,c,cpp,neovim,vim,linux)](https://skillicons.dev)<br/>
+[![My Skills](https://skillicons.dev/icons?i=go,bash,rust,java,c,cpp,lua,neovim,vim,windows,linux,debian,arch,kali,notion,kafka,postgres)](https://skillicons.dev)<br/>
