@@ -1,4 +1,4 @@
-💬 **Me**: crypto dev, infosec student, offensive security enthusiast. Well, you C, Rust is the way to Go
+💬 **Me**: crypto dev, infosec student, offensive security enthusiast.
 
 
 # My Skills
