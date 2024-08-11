@@ -6,7 +6,7 @@
 ### Tools
 [![My Skills](https://skillicons.dev/icons?i=neovim,vim,notion,kafka,redis,postgres)](https://skillicons.dev)<br/>
 ### OS
-[![My Skills](https://skillicons.dev/icons?i=windows,linux,debian,arch,kali)](https://skillicons.dev)<br/>
+[![My Skills](https://skillicons.dev/icons?i=linux,debian,arch,kali,windows)](https://skillicons.dev)<br/>
 
 <!-- # Spotify?
 
