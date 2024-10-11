@@ -1,4 +1,4 @@
-💬 **Me**: crypto dev, infosec student, offensive security enthusiast.
+💬 **Me**: backend dev, infosec student, offensive security enthusiast.
 
 # My Skills
 ### Languages
